@@ -1,5 +1,4 @@
-#include <iostream>
-using namespace std;
+#include "main.h"
 
 /*
  * addition - A function retruns addition of 2 numbers
@@ -7,6 +6,7 @@ using namespace std;
  * @b: secont operand
  * Return: int
 */
+
 int addition(int a , int b)
 {
     return (a + b);
