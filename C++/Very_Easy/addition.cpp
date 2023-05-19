@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * addition - A function retruns addition of 2 numbers
  * @a: first operand
  * @b: secont operand
