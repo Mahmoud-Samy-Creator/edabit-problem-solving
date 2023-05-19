@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * power_calculation - A function to calculate the circuit power
  * @V: Terminal voltage
  * @I: Wire currunt
