@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std;
+#include "main.h"
+//using namespace std;
 
 /*
  * add1 - A function retruns next number of entered one
