@@ -1,7 +1,7 @@
 #include "main.h"
 //using namespace std;
 
-/*
+/**
  * add1 - A function retruns next number of entered one
  * @a: entered number
  * Return: int
