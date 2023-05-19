@@ -1,5 +1,4 @@
-#include <iostream>
-using namespace std;
+#include "main.h"
 
 /*
  * reminder - A function retruns reminder of 2 numbers
